@@ -1,0 +1,6 @@
+{
+    "name": "getcrisp/phptest",
+    "require": {
+        "tightenco/collect": "^8.83"
+    }
+}
